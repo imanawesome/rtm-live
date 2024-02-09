@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" refresh="3600"
 
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -171,7 +171,7 @@ https://22243.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg",Wai BK FM
 https://22243.live.streamtheworld.com/WAI_FM_BKAAC.aac
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RadioY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-red.62159cea.jpg",Red FM
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-red.62159cea.jpg",Red FM
 https://22243.live.streamtheworld.com/RED_FMAAC.aac
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-langkawi.79b41be3.jpg",Langkawi FM

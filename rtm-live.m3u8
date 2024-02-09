@@ -3,80 +3,80 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK01" tvg-id="TV1" tvg-chno="RTMK01" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV1.jpg",TV1
+#EXTINF:-1 group-title="RTM" ch-number="101" tvg-id="TV1" tvg-chno="RTMK01" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV1.jpg",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK01" tvg-id="TV1" tvg-chno="RTMK01" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV1.jpg",TV1
+#EXTINF:-1 group-title="RTM" ch-number="101" tvg-id="TV1" tvg-chno="RTMK01" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV1.jpg",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK01" tvg-id="TV1" tvg-chno="RTMK01" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV1.jpg",TV1 (Astro)
+#EXTINF:-1 group-title="RTM" ch-number="101" tvg-id="TV1" tvg-chno="RTMK01" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV1.jpg",TV1 (Astro)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK01" tvg-id="TV1" tvg-chno="RTMK01" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV1.jpg",TV1 (Sooka)
+#EXTINF:-1 group-title="RTM" ch-number="101" tvg-id="TV1" tvg-chno="RTMK01" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV1.jpg",TV1 (Sooka)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F/ut5qlPUnGmp8VjdL9tjg", "kid":"UmLL6+rWT0KqgxfjyxMQbA" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH3/masterCH3.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK02" tvg-id="TV2" tvg-chno="RTMK02" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV2.jpg",TV2
+#EXTINF:-1 group-title="RTM" ch-number="102" tvg-id="TV2" tvg-chno="RTMK02" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV2.jpg",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK02" tvg-id="TV2" tvg-chno="RTMK02" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV2.jpg",TV2
+#EXTINF:-1 group-title="RTM" ch-number="102" tvg-id="TV2" tvg-chno="RTMK02" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV2.jpg",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK02" tvg-id="TV2" tvg-chno="RTMK02" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV2.jpg",TV2 (Astro)
+#EXTINF:-1 group-title="RTM" ch-number="102" tvg-id="TV2" tvg-chno="RTMK02" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV2.jpg",TV2 (Astro)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK02" tvg-id="TV2" tvg-chno="RTMK02" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV2.jpg",TV2 (Sooka)
+#EXTINF:-1 group-title="RTM" ch-number="102" tvg-id="TV2" tvg-chno="RTMK02" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV2.jpg",TV2 (Sooka)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6GP3FJ5S91Jr90QDTifOjQ", "kid":"977qwgCvQNWIbf6Y1y/PyA" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK03" tvg-id="Okey" tvg-chno="RTMK03" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV%20Okey.jpg",TV Okey
+#EXTINF:-1 group-title="RTM" ch-number="110" tvg-id="Okey" tvg-chno="RTMK03" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV%20Okey.jpg",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK03" tvg-id="Okey" tvg-chno="RTMK03" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV%20Okey.jpg",TV Okey
+#EXTINF:-1 group-title="RTM" ch-number="110" tvg-id="Okey" tvg-chno="RTMK03" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV%20Okey.jpg",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK03" tvg-id="Okey" tvg-chno="RTMK03" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV%20Okey.jpg",TV Okey (Astro)
+#EXTINF:-1 group-title="RTM" ch-number="146" tvg-id="Okey" tvg-chno="RTMK03" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV%20Okey.jpg",TV Okey (Astro)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK03" tvg-id="Okey" tvg-chno="RTMK03" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV%20Okey.jpg",TV Okey (Sooka)
+#EXTINF:-1 group-title="RTM" ch-number="146" tvg-id="Okey" tvg-chno="RTMK03" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV%20Okey.jpg",TV Okey (Sooka)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/ZWTWoqiWiVgbvEaF2fug", "kid":"ngdsLhf9SLS+J83Aj+IYfw" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH2/masterCH2.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK04" tvg-id="Berita RTM" tvg-chno="RTMK04" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/Berita%20RTM.jpg",Berita RTM
+#EXTINF:-1 group-title="RTM" ch-number="123" tvg-id="Berita RTM" tvg-chno="RTMK04" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/Berita%20RTM.jpg",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK04" tvg-id="Berita RTM" tvg-chno="RTMK04" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/Berita%20RTM.jpg",Berita RTM
+#EXTINF:-1 group-title="RTM" ch-number="123" tvg-id="Berita RTM" tvg-chno="RTMK04" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/Berita%20RTM.jpg",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK05" tvg-id="Sukan RTM" tvg-chno="RTMK05" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/Sukan%20RTM.jpg",Sukan RTM
+#EXTINF:-1 group-title="RTM" ch-number="111" tvg-id="Sukan RTM" tvg-chno="RTMK05" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/Sukan%20RTM.jpg",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK05" tvg-id="Sukan RTM" tvg-chno="RTMK05" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/Sukan%20RTM.jpg",Sukan RTM
+#EXTINF:-1 group-title="RTM" ch-number="111" tvg-id="Sukan RTM" tvg-chno="RTMK05" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/Sukan%20RTM.jpg",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="RTM" ch-number="RTMK06" tvg-id="TV6" tvg-chno="RTMK06" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV6.jpg",TV6
+#EXTINF:-1 group-title="RTM" ch-number="113" tvg-id="TV6" tvg-chno="RTMK06" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV6.jpg",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-#EXTINF:-1 group-title="RTM" ch-number="RTMK06" tvg-id="TV6" tvg-chno="RTMK06" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV6.jpg",TV6
+#EXTINF:-1 group-title="RTM" ch-number="113" tvg-id="TV6" tvg-chno="RTMK06" tvg-logo="https://raw.githubusercontent.com/imanawesome/rtm-live/main/Channel%20Logo/TV6.jpg",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
